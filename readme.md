@@ -5,7 +5,7 @@ This Python-based tool uses Azure OpenAI to summarise Microsoft Teams meeting tr
 ## Diagram
 
 The diagram below shows the current flow:
-![Diagram](diagram/teams_summarising.jpg)
+![Diagram](diagram/teams_summarising_final.jpg)
 
 ## How it works
 
